@@ -1,0 +1,8 @@
+
+# Configuration
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme 
+
+title: [Reading Notes]
+description: [My name is Jeremy, and I’m a retired Green Beret in the process of becoming a software developer. This page is for my notes as I move forward through the program.]
