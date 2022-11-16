@@ -1,4 +1,5 @@
-# Reading-notes
+# Reading-Notes
+
 **Description: Code Fellows Notes**
 
 ### Task List 
@@ -25,3 +26,5 @@
 #### 13
 #### 14
 #### 15
+
+## Things I want to know more about
