@@ -2,7 +2,7 @@
 
 **Description: Code Fellows Notes**
 
-**[My GitHub](url)**
+**[My GitHub](https://github.com/Jeremy-Cleland)**
 
 ### Task List 
 - [ ] Task 1
