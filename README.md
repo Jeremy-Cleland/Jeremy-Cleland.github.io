@@ -1,47 +1,40 @@
 # Reading-Notes
 
-## Description: Code Fellows Notes
+## Code Fellows Notes & Important Links
 
-**[My GitHub](https://github.com/Jeremy-Cleland)**
+**[Link to My GitHub](https://github.com/Jeremy-Cleland)**
 
-## Task List
+### Code 201 - Foundations of Software Development
 
-- [ ] Read: Class 01
-- [ ] Task 2
-- [ ] Task 3
+#### Table Of Contents
 
-## Code 201 Reading Notes
+##### 1 [Class 01 Reading Notes](/code201/class-01.md)
 
-### Daily Reading Assignments
+##### 2 [Class 02 Reading Notes](/code201/class-02.md)
 
-#### 1 [Class 01](/class-01.md)
+##### 3 [Class 03 Reading Notes](/code201/class-03.md)
 
-#### 2
+##### 4 [Class 4 Reading Notes](/code201/class-04.md)
 
-#### 3
+##### 5 [Class 5 Reading Notes](/code201/class-05.md)
 
-#### 4
+##### 6 [Class 6 Reading Notes](/code201/class-06.md)
 
-#### 5
+##### 7 [Class 7 Reading Notes](/code201/class-07.md)
 
-#### 6
+##### 8 [Class 8 Reading Notes](/code201/class-08.md)
 
-#### 7
+##### 9 [Class 9 Reading Notes](/code201/class-09.md)
 
-#### 8
+##### 10 [Class 10 Reading Notes](/code201/class-10.md)
 
-#### 9
+##### 11 [Class 11 Reading Notes](/code201/class-11.md)
 
-#### 10
+##### 12 [Class 12 Reading Notes](/code201/class-12.md)
 
-#### 11
+##### 13 [Class 13 Reading Notes](/code201/class-13.md)
 
-#### 12
+##### 14 [Class 14 Reading Notes](/code201/class-14.md)
 
-#### 13
+##### 15 [Class 15 Reading Notes](/code201/class-15.md)
 
-#### 14
-
-#### 15
-
-## Things I want to know more about
