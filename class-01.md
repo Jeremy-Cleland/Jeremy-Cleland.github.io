@@ -90,8 +90,7 @@ An Attribute should have
 
 **Describe the Anatomy of an HTML element.**
 
-An HTML element contains: ```html
- <openingTag> theContent </closingTag>```
+An HTML element contains:
 
 The opening tag: Contains the name of the element wrapped in opening and closing angle brackets. The opening tag is where the element begins.
 
@@ -116,11 +115,7 @@ Semantic Tags
 - **sidebar**
 - **footer**
 
-Along with those, you have all the individual HTML elements, such as.
-
-``` HTML
-<a> <article> <div> <h1> <h2> <h3> <h4> <h5> <h6> <aside> <nav> <section> 
-```
+Along with those, you have all the individual HTML elements, such as paragraphs, links, headings.
 
 **How does metadata influence Search Engine Optimization?**
 
@@ -158,8 +153,10 @@ Dynamically changing the content, scroll effects, pop up chat boxes and much muc
 
 You add JavaScript internally inside the HTML document with the scriptelement. The other way is by creating a javascript file and adding the following code inside the HTML document
 
-``` HTML
+```HTML
+
 <script src="script.js" ></script>
+
 ```
 
 ## Things I want to know more about
