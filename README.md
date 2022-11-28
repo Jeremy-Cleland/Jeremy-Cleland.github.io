@@ -14,7 +14,7 @@
 
 ### Daily Reading Assignments
 
-#### Class 01 (/class-01.md)
+#### 1 [Class 01](/class-01.md)
 
 #### 2
 
