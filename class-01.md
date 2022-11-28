@@ -1,6 +1,8 @@
 
 # Class 01 Readings
 
+Module 1 dives into the introduction of web development. This first class covers the big picture of how the Web works and is vital to understand these basic principles
+
 ## How the Web Works
 
 - Clients: End user-connected devices.
