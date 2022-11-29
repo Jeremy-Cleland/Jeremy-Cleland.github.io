@@ -105,7 +105,7 @@ Q: List 3 different types of comparison operators.
 
   Equality, Greater Than, Less Than
 
-Q: What is the difference between the logical operator && and ||?
+Q: What is the difference between the logical operator && and `||`?
 
   && is both needs to be true and
   || is one or the other need to be true
