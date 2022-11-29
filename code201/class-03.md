@@ -1,7 +1,30 @@
-# Reflection
+# Class 03 Reading Notes
 
-## Important Links
+## Learn HTML
 
-## Quesitons
+### Important HTML Links
+
+[]()
+
+#### HTML Quesitons
+
+## Learn CSS
+
+### Important CSS Links
+
+[]()
+
+[]()
+
+### CSS Questions
+
+## Learn JS
+
+### Important JS Links
+
+[]()
+[]()
+
+### JS Questions
 
 ## Things I want to know more about
