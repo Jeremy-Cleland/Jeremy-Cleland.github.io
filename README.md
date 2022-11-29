@@ -2,7 +2,9 @@
 
 ## Code Fellows Notes & Important Links
 
-**[Link to My GitHub](https://github.com/Jeremy-Cleland)**
+My name is Jeremy and I’m a retired Green Beret in the process of becoming a software developer. This page is for my notes as I move forward through the program.
+
+[Link to My GitHub](https://github.com/Jeremy-Cleland)
 
 ### Code 201 - Foundations of Software Development
 
