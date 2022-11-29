@@ -1,5 +1,5 @@
 
-# Reflection
+# Getting Started
 
 Module 1 dives into the introduction of web development. This first class covers the big picture of how the Web works and is vital to understand these basic principles
 
@@ -174,7 +174,6 @@ HTML should be coded to represent its data but not styling. CSS is for how it sh
 **What are the benefits of using semantic tags in our HTML?**
 
 Writing semantic markup will increase visibility by providing search engines with important keywords. For example, an h1 heading is very important for Google and indicates what the following section is about, but if an h3 ( that said best places to live) were to be used first, followed by an h1 that says (worst places to live), then it would appear that the blog post is about the worst places to live. A user would load the page and notice that the first heading isn't about the best places but instead the worst and would likely leave.
-
 
 **Describe 2 things that require JavaScript in the browser.**
 
