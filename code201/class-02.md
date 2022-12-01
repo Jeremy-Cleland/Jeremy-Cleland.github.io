@@ -1,5 +1,17 @@
 # Class 02 Reading Notes
 
+- [Class 02 Reading Notes](#class-02-reading-notes)
+  - [Reflection](#reflection)
+    - [Important HTML Links](#important-html-links)
+      - [HTML Questions](#html-questions)
+  - [Learn CSS](#learn-css)
+    - [Important CSS Links](#important-css-links)
+    - [CSS Questions](#css-questions)
+  - [Learn JS](#learn-js)
+    - [Important JS Links](#important-js-links)
+    - [JS Questions](#js-questions)
+  - [Things I want to know more about](#things-i-want-to-know-more-about)
+
 ## Reflection
 
 Looking at the structure, we will be exposed to the same thing a few times through these readings, and we will find our answers to the questions. This approach will lead to continued exposure, and its essential to learn something new every time we sit down and complete our reading assignments.

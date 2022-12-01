@@ -1,5 +1,20 @@
 # Class 04 Reading Notes
 
+- [Class 04 Reading Notes](#class-04-reading-notes)
+  - [Learn HTML](#learn-html)
+    - [Important HTML Links](#important-html-links)
+      - [HTML Questions](#html-questions)
+  - [Learn CSS](#learn-css)
+    - [Important CSS Links](#important-css-links)
+    - [CSS Questions](#css-questions)
+  - [Learn JS](#learn-js)
+    - [Important JS Links](#important-js-links)
+    - [JS Questions](#js-questions)
+  - [Miscellaneous](#miscellaneous)
+    - [Important Miscellaneous Links](#important-miscellaneous-links)
+    - [Misc Questions](#misc-questions)
+  - [Things I want to know more about](#things-i-want-to-know-more-about)
+
 ## Learn HTML
 
 ### Important HTML Links

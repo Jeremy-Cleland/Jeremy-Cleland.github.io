@@ -1,4 +1,13 @@
-# Class 03 Reading Notes
+# Class 05 Reading Notes
+
+- [Class 05 Reading Notes](#class-05-reading-notes)
+  - [Learn HTML](#learn-html)
+    - [Important HTML Links](#important-html-links)
+      - [HTML Questions](#html-questions)
+  - [Learn CSS](#learn-css)
+    - [Important CSS Links](#important-css-links)
+    - [CSS Questions](#css-questions)
+  - [Things I want to know more about](#things-i-want-to-know-more-about)
 
 ## Learn HTML
 

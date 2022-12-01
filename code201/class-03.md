@@ -1,5 +1,18 @@
 # Class 03 Reading Notes
 
+- [Class 03 Reading Notes](#class-03-reading-notes)
+  - [Reflection](#reflection)
+  - [Learn HTML](#learn-html)
+    - [Important HTML Links](#important-html-links)
+      - [HTML Questions](#html-questions)
+  - [Learn CSS](#learn-css)
+    - [Important CSS Links](#important-css-links)
+    - [CSS Questions](#css-questions)
+  - [Learn JS](#learn-js)
+    - [Important JS Links](#important-js-links)
+    - [JS Questions](#js-questions)
+  - [Things I want to know more about](#things-i-want-to-know-more-about)
+
 ## Reflection
 
 ## Learn HTML
