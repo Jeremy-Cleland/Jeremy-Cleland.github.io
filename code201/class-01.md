@@ -1,6 +1,19 @@
 
 # Getting Started
 
+- [Getting Started](#getting-started)
+  - [Getting Started](#getting-started-1)
+    - [Important Links](#important-links)
+    - [My Notes](#my-notes)
+    - [Questions](#questions)
+  - [Introduction to HTML](#introduction-to-html)
+    - [Important Links](#important-links-1)
+    - [Questions](#questions-1)
+  - [Miscellaneous](#miscellaneous)
+    - [Important Links](#important-links-2)
+    - [Questions](#questions-2)
+  - [Things I want to know more about](#things-i-want-to-know-more-about)
+
 Module 1 dives into the introduction of web development. This first class covers the big picture of how the Web works and is vital to understand these basic principles
 
 ## [Getting Started](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
