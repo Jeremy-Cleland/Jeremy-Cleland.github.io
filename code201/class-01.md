@@ -63,7 +63,7 @@ The browser sends requests to the server for HTML files, and within the HTML fil
 Order in Which Files are Parsed
 
 1. HTML is parsed first.
-2. If any link scrit elements are presents, it will request them and then parse them both.**
+2. If any link script elements are presents, it will request them and then parse them both.**
 3. The browser generates an in-memory DOM tree and CSSOM tree and compiles and executes the parsed JavaScript.
 4. The browser builds the DOM tree and applies CSSOM styles, and executes the JavaScript.
 
@@ -120,7 +120,7 @@ The content: Content of the element. (h1, paragraph text.. etc.)
 
 The closing tag: Similar to the opening tag but contains a forward slash before the element name, indicating the end of the element.
 
-**What is the Difference between article and section element tags?**
+**What is the difference between article and section element tags?**
 
 An article element should be used if the contents are a stand-alone piece, such as a blog post. This could also be a product card, widget, or product review.
 
@@ -145,7 +145,7 @@ Metadata is vital for Search Engine Optimization. The title tag and meta descrip
 
 **How is the meta HTML tag used when specifying metadata?**
 
-The meta HTML element represents metadata that cannot be represented by other HTML meta-related elements, like base, link, script, style or title. Many meta elements include name and content attributes.
+The meta HTML element represents metadata that cannot be represented by other HTML meta-related elements, like base, link, script, style, or title. Many meta elements include name and content attributes.
 
 ## Miscellaneous
 
@@ -181,7 +181,7 @@ Dynamically changing the content, scroll effects, pop up chat boxes and much muc
 
 **How can you add JavaScript to an HTML document?**
 
-You add JavaScript internally inside the HTML document with the scriptelement. The other way is by creating a javascript file and adding the following code inside the HTML document
+You add JavaScript internally inside the HTML document with the script element. The other way is by creating a javascript file and adding the following code inside the HTML document
 
 ```HTML
 
