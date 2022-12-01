@@ -14,15 +14,15 @@
 
 Q: When should you use an unordered list in your HTML document?
 
- You would use the unordered list when its not necessary to be ordered.
+ You would use the unordered list when it's not necessary to be ordered.
 
 Q: How do you change the bullet style of unordered list items?
 
   To change the style of the bullet you would change the attribute
 
-Q: When should you use an ordered list vs an unorder list in your HTML document?
+Q: When should you use an ordered list vs. an unorder list in your HTML document?
 
-  You would use the ordered list when you want the list to be ordered such a numbers.
+  You would use the ordered list when you want the list to be ordered such as numbers.
 
 Q: Describe two ways you can change the numbers on list items provided by an ordered list?
 
@@ -42,7 +42,7 @@ Q: Describe the CSS properties of margin and padding as characters in a story. W
 
   The padding is between the border and the content area and is used to push the content away fro the border.
   
-Q: List and describe the four parts of an HTML elements box as referred to by the   box model.
+Q: List and describe the four parts of an HTML elements box as referred to by the box model.
 
 Content box - The area where your content is displayed; size it using properties like inline-size and block-size or width and height
 
@@ -104,12 +104,12 @@ Q: Read the code below and evaluate the last expression and explain what the res
 
  ```
 
-Q: Describe a real world example of when a conditional statement should be used in a JavaScript program.
+Q: Describe a real-world example of when a conditional statement should be used in a JavaScript program.
 
-  You would use a conditional statment for many reasons but one could be for checking if a user is logged in and if they aren't logged in to ask them to login in, and lastly if they dont have an account to create one.
+  You would use a conditional statement for many reasons but one could be for checking if a user is logged in and if they aren't logged in, to ask them to login in, and lastly, if they don't have an account, to create one.
 
 Q: Give an example of when a Loop is useful in JavaScript.
 
-Using a loop would be beneficial for itterating over a list of users to ensure that someone making a new username isn't picking one already used before.
+Using a loop would be beneficial for iterating over a list of users to ensure that someone making a new username isn't picking one already used.
 
 ## Things I want to know more about

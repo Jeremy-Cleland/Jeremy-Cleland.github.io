@@ -6,7 +6,7 @@
 
 []()
 
-#### HTML Quesitons
+#### HTML Questions
 
 ## Learn CSS
 

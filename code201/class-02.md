@@ -26,7 +26,7 @@ Q: What are some uses for the sup and sub elements?
 
   The superscript element is solely for typographical reasons. Such as displaying exponents and ordinal numbers.
 
-  The subscript element is solely for typogrgaphical reasons. Such as footnote numbers and numbers of atoms.
+  The subscript element is solely for typographical reasons. Such as footnote numbers and numbers of atoms.
 
 Q: When using the abbr element, what attribute must be added to provide the full expansion of the term?
 
@@ -89,9 +89,9 @@ Q: List 4 types of JavaScript operators.
 
   Addition, Multiplication, Subtraction, Division, Modulo, Equality, Strict Equality, Not equal, Strict not equal
 
-Q:Describe a real world Problem you could solve with a Function.
+Q: Describe a real-world Problem you could solve with a Function.
   
-  Functions can solve many problems, but let's say we want to decipher how many tables we need for a given party, and each table can sit two people. We could use a function that's argument is the number of people and could return the amount of tables needed.
+  Functions can solve many problems, but let's say we want to decipher how many tables we need for a given party, and each table can seat two people. We could use a function that's argument is the number of people and could return the number of tables needed.
 
 Q: An if statement checks a __ and if it evaluates to ___, then the code block will execute.
 
