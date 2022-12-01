@@ -8,7 +8,7 @@ My name is Jeremy and I’m a retired Green Beret in the process of becoming a s
 
 ### Code 201 - Foundations of Software Development
 
-- Code 201 Class Notes
+- [Code 201 Class Notes]()
         - [Class 01 Reading Notes](/code201/class-01.md)
         - [Class 02 Reading Notes](/code201/class-02.md)
         - [Class 03 Reading Notes](/code201/class-03.md)
