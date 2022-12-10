@@ -1,6 +1,7 @@
 # Class 10 Notes Debugging
 
 ## Debugging
+
 [What Went Wrong? Troubleshooting JavaScript.](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong)
 
 Q: Name some key differences between a Syntax Error and a Logic Error.
@@ -59,4 +60,4 @@ A depper understanding of everything we have leared at this point.
 - [Class 12 Reading Notes](/code201/class-12.md)
 - [Class 13 Reading Notes](/code201/class-13.md)
 - [Class 14 Reading Notes](/code201/class-14.md)
-- [Class 15 Reading Notes](/code201/class-14.md)
+- [Class 15 Reading Notes](/code201/class-15.md)

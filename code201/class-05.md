@@ -90,3 +90,19 @@ Q: Describe two ways you could add spacing around the characters displayed in an
 [^1](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types#gif_graphics_interchange_format)
 
 ## Things I want to know more about
+
+- [Class 01 Reading Notes](/code201/class-01.md)
+- [Class 02 Reading Notes](/code201/class-02.md)
+- [Class 03 Reading Notes](/code201/class-03.md)
+- [Class 4 Reading Notes](/code201/class-04.md)
+- [Class 5 Reading Notes](/code201/class-05.md)
+- [Class 6 Reading Notes](/code201/class-06.md)
+- [Class 7 Reading Notes](/code201/class-07.md)
+- [Class 8 Reading Notes](/code201/class-08.md)
+- [Class 9 Reading Notes](/code201/class-09.md)
+- [Class 10 Reading Notes](/code201/class-10.md)
+- [Class 11 Reading Notes](/code201/class-11.md)
+- [Class 12 Reading Notes](/code201/class-12.md)
+- [Class 13 Reading Notes](/code201/class-13.md)
+- [Class 14 Reading Notes](/code201/class-14.md)
+- [Class 15 Reading Notes](/code201/class-15.md)
