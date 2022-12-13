@@ -4,19 +4,19 @@
 
 - Q: Why would a developer use local storage for a web application?
 
-  - A:
+  - A: HTTP, as the main transport layer of the Web, has a significant drawback because it is stateless. Every time the application is closed, the state will be reset.
 
 - Q: What information should not be stored in local storage?
 
-  - A:
+  - A: Persistnet cookies
 
 - Q: Local storage can store what type of data? How would you convert it to that type before storing?
 
-  - A:
+  - A: You can only store strings in different keys. You will have to use `JSON.stringify()` and `JSON.parse()`
 
 ## Bookmark/Skim
 
-“The Past, Present, and Future of Local Storage for Web Applications”
+[“The Past, Present, and Future of Local Storage for Web Applications”](http://diveinto.html5doctor.com/storage.html)
 
 ### Things I want to know more about
 

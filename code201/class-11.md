@@ -6,13 +6,11 @@
 
 - Q: Explain how the ability to use video and audio on the web has evolved since the early 2000s.
 
-  - A:
+  - A: Flash and Silverlight were proprietary plugins used in the early days of online videos. They had security and accessibility issues and are now obsolete.
 
 - Q: Describe using the src and controls attributes in the `<video>` element.
 
   - A: In the same way as for the `<img>` element, the `src` (source) attribute contains a path to the video you want to embed. It works in the same way. ^[1]
-
-
 
 - Q: Why is it important to have fallback content inside the `<video>` element?
 
