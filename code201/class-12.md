@@ -2,37 +2,41 @@
 
 [JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas)
 
-Q: What does the `<canvas>` allow a developer to acheive?
+- Q: What does the `<canvas>` allow a developer to achieve?
 
-- A:
+  - A: Allows you to draw 2D graphics using JavaScript.
 
-Q: What is the importance of the closing `</canvas>` tag?
+- Q: What is the importance of the closing `</canvas>` tag?
 
-- A:
+  - A:  Any content between the opening and closing tags is fallback content that will display only if the browser doesn’t support the `<canvas>`.
 
-Q: Explain what the getContext() method does.
+- Q: Explain what the getContext() method does.
 
-- A:
+  - A:
+    - Returns a render context object.
+    - getContext() takes one argument: the type of context. For example, you use the "2d" to get a 2D rendering context object, which is an instance of the CanvasRenderingContext2D interface.
 
 [Chart.js Documentation:](http://www.chartjs.org/docs/)
 
-Q: What is Chart.js and how it can be brought into your project?
+- Q: What is Chart.js, and how can it be brought into your project?
 
-- A:
+  - A: Chart.js provides a set of frequently used chart types, plugins, and customization options. NPM
 
-Q: List 3 different Chart types you can create using Chart.js.
-
-- A:
+- Q: List 3 different Chart types you can create using Chart.js.
+  - A. 3 Chart types
+    - Bar Chart
+    - Bubble Chart
+    - Line Chart
 
 [Easily Create Stunning Animated Charts with Chart.js](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 
-Q: What are some advantages to displaying data via a chart over a table?
+- Q: What are some advantages to displaying data via a chart over a table?
 
-- A:
+  - A: A table chart is more responsive, and tables are hard to make responsive. Mobile phones would be much easier to see a chart than would a table.
 
-Q: How could Chart.js aid your previously created applications visually?
+- Q: How could Chart.js aid your previously created applications visually?
 
-- A:
+  - A: Chart JS makes it much easier to make a dynamic chart that doesn't need to be optimized and uploaded (such as images)
 
 ## Bookmark and Review
 
@@ -44,9 +48,10 @@ Q: How could Chart.js aid your previously created applications visually?
 
 ### Things I want to know more about
 
-
+It's been a while since I dug into React, and I'm eager to get back to JSX and build upon my knowledge.
 
 ### Code 201
+
 
 - [Class 01 Reading Notes](/code201/class-01.md)
 - [Class 02 Reading Notes](/code201/class-02.md)
