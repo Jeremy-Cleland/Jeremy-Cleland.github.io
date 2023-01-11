@@ -1,4 +1,4 @@
-# Class 01 Reading Notes | Passing Functions as Props
+# Class 03 Reading Notes | Passing Functions as Props
 
 [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 
