@@ -45,5 +45,3 @@ My name is Jeremy, and I’m a retired Green Beret in the process of becoming a 
 - [Class 15 Reading Notes](/code301/Class-15.md)
 
 ## Code 401 - Advanced Software Development
-
-/code301/Class-3.md
