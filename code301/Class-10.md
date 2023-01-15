@@ -6,23 +6,38 @@
 
 - Q: What is a ‘call’?
 
-  - A:
+  - A: function invocation
 
 - Q: How many ‘calls’ can happen at once?
 
-  - A:
+  - A: one at a time
 
 - Q: What does LIFO mean?
 
-  - A:
+  - A: Last In, First Out: The last function that gets pushed into the stack is the first to be pop out, when the function returns.
 
 - Q: Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
 
   - A:
 
+```JS
+
+  function func1(){
+  console.log("Hello from firstFunction");
+}
+
+function func2(){
+  func1();
+  console.log("The end from secondFunction");
+}
+
+func2();
+
+```
+
 - Q: What causes a Stack Overflow?
 
-  - A:
+  - A: A stack overflow occurs when there is a recursive function (a function that calls itself) without an exit point. The browser (hosting environment) has a maximum stack call that it can accomodate before throwing a stack error.
 
 [JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
 
