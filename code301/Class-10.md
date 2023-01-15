@@ -1,39 +1,57 @@
 # Class 01 Reading Notes
 
-[]()
-[]()
-[]()
+[Understanding the JavaScript Call Stack](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
 
 ## Discussion Questions
 
-- Q:
+- Q: What is a ‘call’?
 
   - A:
 
-- Q:
+- Q: How many ‘calls’ can happen at once?
 
   - A:
 
-- Q:
+- Q: What does LIFO mean?
 
   - A:
 
-[]()
-[]()
-[]()
+- Q: Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
+
+  - A:
+
+- Q: What causes a Stack Overflow?
+
+  - A:
+
+[JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
 
 ## Discussion Questions
 
-- Q:
+- Q: What is a ‘reference error’?
 
   - A:
 
-- Q:
+- Q: What is a ‘syntax error’?
 
   - A:
 
-- Q:
+- Q: What is a ‘range error’?
+
+  - A:
+
+- Q: What is a ‘type error’?
+
+  - A:
+
+- Q: What is a breakpoint?
+
+  - A:
+
+- Q: What does the word ‘debugger’ do in your code?
 
   - A:
 
 ## Things I want to know more about
+
+- Hooks!
