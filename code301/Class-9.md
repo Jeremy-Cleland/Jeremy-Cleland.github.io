@@ -1,4 +1,4 @@
-# Class 01 Reading Notes
+# Class 09 Reading Notes
 
 [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 

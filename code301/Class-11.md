@@ -1,39 +1,52 @@
-# Class 01 Reading Notes
+# Class 11 Reading Notes | MongoDB and Mongoose
 
-[]()
-[]()
-[]()
+## [nosql vs sql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 
-## Discussion Questions
+Fill in the chart below with five differences between SQL and NoSQL databases:
 
-- Q:
+SQL NoSQL
 
-  - A:
-
-- Q:
+- Q: Fill in the chart below with five differences between SQL and NoSQL databases:
 
   - A:
 
-- Q:
+1. What kind of data is a good fit for an SQL database?
 
-  - A:
+2. Give a real world example.
 
-[]()
-[]()
-[]()
+3. What kind of data is a good fit a NoSQL database?
 
-## Discussion Questions
+4. Give a real world example.
 
-- Q:
+5. Which type of database is best for hierarchical data storage?
 
-  - A:
+6. Which type of database is best for scalability?
 
-- Q:
+7. Give a real world example.
 
-  - A:
+## sql vs nosql (Video)[sql vs nosq](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 
-- Q:
+1. What does SQL stand for?
 
-  - A:
+2. What is a relational database?
 
-## Things I want to know more about
+3. What type of structure does a relational database work with?
+
+4. What is a ‘schema’?
+
+5. What is a NoSQL database?
+
+6. How does it work?
+
+7. What is inside of a MongoDB database?
+
+8. Which is more flexible - SQL or MongoDB? and why.
+
+9. What is the disadvantage of a NoSQL database?
+
+### Bookmark and Review
+
+[mongoose api](https://mongoosejs.com/docs/api.html#Model)
+[React Router](https://reactrouter.com/web/api/BrowserRouter)
+
+### Things I want to know more about

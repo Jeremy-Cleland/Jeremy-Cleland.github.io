@@ -1,4 +1,4 @@
-# Class 01 Reading Notes
+# Class 08 Reading Notes
 
 [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
