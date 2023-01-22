@@ -12,7 +12,7 @@
 
   - A: Update | Delete
 
-## [Speed Coding: Building a CRUD API ](https://www.youtube.com/watch?v=EzNcBhSv1Wo)
+## [Speed Coding: Building a CRUD API](https://www.youtube.com/watch?v=EzNcBhSv1Wo)
 
 ## Discussion Questions
 
