@@ -1,4 +1,4 @@
- # Class 1 Reading Notes | Data Structures and Algorithms
+# Class 1 Reading Notes | Data Structures and Algorithms
 
 ## [Basic Recursion](https://www.youtube.com/watch?v=vPEJSJMg4jY)
 
@@ -14,11 +14,11 @@
 
 - Q: What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
 
-  - A: The Big-O
+  - A: Most importantly no single data structure provides the best answer to all problems. Keeping this in mind, selecting the ideal data structure to address a certain issue requires that we consider the operations we will conduct as well as their frequency. The next step is to decide which data structure offers the optimum performance trade-off for the tasks at hand.
 
 - Q: How can we ensure that we’ll avoid an infinite recursive call stack?
 
-  - A: Most importantly no single data structure provides the best answer to all problems. Keeping this in mind, selecting the ideal data structure to address a certain issue requires that we consider the operations we will conduct as well as their frequency. The next step is to decide which data structure offers the optimum performance trade-off for the tasks at hand.
+  - A: Using a base case that consists of a terminating scenario that does not use recursion to produce an answer. Without a base case, the function has an endless recursion, which means that calls to it are made repeatedly without a way to break the cycle.
 
 
 ## Things I want to know more about
