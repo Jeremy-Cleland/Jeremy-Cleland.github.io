@@ -20,5 +20,4 @@
 
   - A: Using a base case that consists of a terminating scenario that does not use recursion to produce an answer. Without a base case, the function has an endless recursion, which means that calls to it are made repeatedly without a way to break the cycle.
 
-
 ## Things I want to know more about
