@@ -14,7 +14,7 @@
 
   - A:
 
-    - Step 1. Take a step back from the editor and re-read the question, course coneent.
+    - Step 1. Take a step back from the editor and re-read the question, and course content.
 
     - Step 2. Break the problem down to the smallest steps I feel is necessary. Translate those steps into pseudo-code.
 
