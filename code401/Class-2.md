@@ -42,7 +42,6 @@
 
   - A:
 
-
 ## [CI/CD](https://www.youtube.com/watch?v=xSv_m3KhUO8)
 
 - Q: What are three benefits of Continuous Integration?
