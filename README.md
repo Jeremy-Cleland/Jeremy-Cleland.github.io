@@ -70,7 +70,7 @@ My name is Jeremy, and I’m a retired Green Beret in the process of becoming a 
 - [Class 22 Reading Notes](/code401/Class-22.md)
 - [Data Structures and Algorithms](/code401/DataStructuresAndAlgorithms.md)
 - [Engineer Readings](/code401/EngineeringReadings.md)
-- [Practice in the Terminal](/code401/PracticeintheTerminal.md.md)
+- [Practice in the Terminal](/code401/PracticeintheTerminal.md)
 - [Growth Mindset](/code401/TheGrowthMindset.md)
 - [Introduction to SQL](/code401/Introduction-to-SQL.md)
 
