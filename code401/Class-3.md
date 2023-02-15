@@ -1,4 +1,4 @@
-# Class 1 Reading Notes | 
+# Class 3 Reading Notes | Express REST API
 
 ## [Review: ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
