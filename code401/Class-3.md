@@ -36,12 +36,11 @@
 
 - Q: By what mean do we initialize express.Router() in an express server?
 
-  - A: We will call an instance of the express.Router() we are then able to add routes. 
-
+  - A: We will call an instance of the express.Router() we are then able to add routes.
 
 - Q: What do we use route middleware for?
 
-  - A: Checking if a user is authenticated, logging data for analytics, or anything else we’d like to do before we provide the information to the user. 
+  - A: Checking if a user is authenticated, logging data for analytics, or anything else we’d like to do before we provide the information to the user.
 
 ## Things I want to know more about
 
