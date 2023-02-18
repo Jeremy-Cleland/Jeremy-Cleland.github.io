@@ -2,21 +2,45 @@
 
 ## []()
 
-## Discussion Questions
+- Q:
 
-- Q: Which HTTP method would you use to update a record through an API?
-
-  - A: PUT
-
-- Q: Which REST methods require an ID parameter?
-
-  - A: Update | Delete
+  - A:
 
 - Q:
+
   - A:
-    - 1
-    - 2
-    - 3
+
+- Q:
+
+  - A:
+
+## []()
+
+- Q:
+
+  - A:
+
+- Q:
+
+  - A:
+
+- Q:
+
+  - A:
+
+## []()
+
+- Q:
+
+  - A:
+
+- Q:
+
+  - A:
+
+- Q:
+
+  - A:
 
     
 ## Things I want to know more about

@@ -1,22 +1,9 @@
-# Class 1 Reading Notes | 
+# Class 9 Reading Notes | Authorization/Authentication
 
-## []()
+## [Read today’s Lab Requirements](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-09/lab/)
 
-## Discussion Questions
+- Q: Discuss 2 possible project ideas that could be completed by you and a partner in the alloted time.
 
-- Q: Which HTTP method would you use to update a record through an API?
-
-  - A: PUT
-
-- Q: Which REST methods require an ID parameter?
-
-  - A: Update | Delete
-
-- Q:
   - A:
-    - 1
-    - 2
-    - 3
 
-    
 ## Things I want to know more about

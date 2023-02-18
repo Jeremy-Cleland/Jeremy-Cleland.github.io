@@ -1,4 +1,4 @@
-# Class 1 Reading Notes | Data Modeling
+# Class 4 Reading Notes | Data Modeling
 
 ## [nosql vs sql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 
