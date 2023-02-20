@@ -4,7 +4,7 @@
 
 - Q: Explain to a non-technical friend how you would safely hash and store a password.
 
-  - A: Hashing is the greatest way for protecting passwords and considered to be pretty safe for ensuring the integrity of data or password. I would diccuss the different algorithms which provid the besk protetion. 
+  - A: Hashing is the greatest way for protecting passwords and is considered to be pretty safe for ensuring the integrity of data or password. I would discuss the different algorithms which provide the best protection.
 
 - Q: What is Bcrypt?
 
@@ -18,13 +18,13 @@
 
 - Q: What is Basic Authentication?
 
-  - A: Basic access authentication is a method for an HTTP user agent (e.g. a web browser) to provide a user name and password when making a request.
+  - A: Basic access authentication is a method for an HTTP user agent (e.g. a web browser) to provide a username and password when making a request.
 
-- Q: What properties are necessary in the header of a Basic Auth request?
+- Q: What properties are necessary for the header of a Basic Auth request?
 
   - A: Authorization: Basic `<credentials>`
 
-- Q: How are `username:password` in Basic Auth encoded?
+- Q: How are `username:` `password` in Basic Auth encoded?
 
   - A:  Base64 encoding of ID and password joined by a single colon :
 
@@ -42,7 +42,6 @@
 
   - A: [Authentication Cheat Sheet¶]( https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
 
-    
 ## Things I want to know more about
 
 Functional React Components and HOOKS!
