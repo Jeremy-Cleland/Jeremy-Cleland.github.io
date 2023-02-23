@@ -4,6 +4,6 @@
 
 - Q: Discuss 2 possible project ideas that could be completed by you and a partner in the alloted time.
 
-  - A:
+  - A: A very frustrating application and an application to help deal with frustration. 
 
 ## Things I want to know more about
