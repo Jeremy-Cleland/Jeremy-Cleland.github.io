@@ -1,4 +1,4 @@
-# Class 1 Reading Notes | Event Driven Applications
+# Class 11 Reading Notes | Event Driven Applications
 
 ## [Event-Driven Programming in Node.js](<https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming>)
 
