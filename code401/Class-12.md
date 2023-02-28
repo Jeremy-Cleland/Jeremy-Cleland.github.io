@@ -16,7 +16,7 @@
 
 ## [Socket.io Tutorial](https://www.tutorialspoint.com/socket.io/)
 
-- Q: What does the event handler io.on() do?
+- Q: What does the event handler io. on() do?
 
   - A: The io.on event handler handles connection, disconnection, etc., events in it, using the socket object.
 
