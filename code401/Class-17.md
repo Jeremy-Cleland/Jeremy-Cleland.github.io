@@ -52,7 +52,7 @@
 
 - Q: What are the benefits of employing a CDN?
 
-  - A: Employing a CDN doesn’t only speed up the delivery of Internet content, it helps protect your website against certain forms of cyber attacks, such as Denial of Service attacks. It protects against these threats because CDNs allow for the handling of more traffic and withstanding hardware failure better than many origin servers.[Cloudflare](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
+  - A: Employing a CDN doesn’t only speed up the delivery of Internet content, it helps protect your website against certain forms of cyber attacks, such as Denial of Service attacks. It protects against these threats because CDNs allow for the handling of more traffic and withstanding hardware failure better than many origin servers. [Cloudflare](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 
 ## Things I want to know more about
 
