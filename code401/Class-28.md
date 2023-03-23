@@ -4,15 +4,15 @@
 
 - Q: What is the main intended use case for the useEffect hook?
 
-  - A:
+  - A: Call `useEffect` at the top level of your component to declare an Effect:
 
 - Q: How does the effect’s logic interact with the component?
 
-  - A:
+  - A: We need to put our side-effect logic into the callback function, then use the dependencies argument to control when you want the side-effect to run. It's important that the component rendering and the side-effect logic are independent.
 
 - Q: What is the importance of the return value from the effect’s logic function?
 
-  - A:
+  - A:  It should return a cleanup function with cleanup code that disconnects from that system.
 
 ## Bookmark and Review
 
