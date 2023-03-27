@@ -4,7 +4,7 @@
 
 - Q: Summarize the five principles for structuring state.
 
-  - A: 
+  - A:
     1. Group-related state. Consider combining many state variables into one if you consistently update two or more of them at once.
     1. Avoid state inconsistencies. There is space for error when the state is set up so that different parts of the state may conflict and "disagree" with one another.
     1. Avoid being redundant. You shouldn't add information to a component's state if it can be calculated from its props or already-existing state variables during rendering.
