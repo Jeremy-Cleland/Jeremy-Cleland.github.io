@@ -1,4 +1,4 @@
-# Class 1 Reading Notes | Context API
+# Class 31 Reading Notes | Context API
 
 ## [Choosing the State Structure](https://react.dev/learn/choosing-the-state-structure)
 
