@@ -32,13 +32,13 @@ const store = createStore(counterReducer);
 
 ``` 
 
-In this example, we first import the `createStore` function from the Redux library. We then define an initial state object and a reducer function called `counterReducer` that handles actions related to a counter. The `createStore` function is called with the reducer function as an argument, and it returns a new store object.
+  In this example, we first import the `createStore` function from the Redux library. We then define an initial state object and a reducer function called `counterReducer` that handles actions related to a counter. The `createStore` function is called with the reducer function as an argument, and it returns a new store object.
 
-Reducers are functions that take in the current state and an action object and return a new state based on the action type. In the example above, the `counterReducer` function handles actions with the types INCREMENT and DECREMENT and updates the counter in the state accordingly.
+  Reducers are functions that take in the current state and an action object and return a new state based on the action type. In the example above, the `counterReducer` function handles actions with the types INCREMENT and DECREMENT and updates the counter in the state accordingly.
 
-The store object provides several methods to interact with the state, such as `getState()` to retrieve the current state, `dispatch(action)` to dispatch an action to the reducer, and `subscribe(listener)` to register a listener function that is called whenever the state changes.
+  The store object provides several methods to interact with the state, such as `getState()` to retrieve the current state, `dispatch(action)` to dispatch an action to the reducer, and `subscribe(listener)` to register a listener function that is called whenever the state changes.
 
-Overall, the store and reducers in Redux work together to provide a predictable and manageable way to manage the application state.
+  Overall, the store and reducers in Redux work together to provide a predictable and manageable way to manage the application state.
 
 - Q: Name three Redux store methods given to us by createStore and describe their use.
 
@@ -51,17 +51,17 @@ Overall, the store and reducers in Redux work together to provide a predictable 
 
   - A: `combineReducers()` is a function provided by the Redux library in JavaScript that allows you to combine multiple reducers into a single reducer function.
 
-In a Redux application, a reducer is a pure function that takes the current state and an action, and returns a new state. It's responsible for updating the state of the application in response to actions dispatched by the user or other parts of the application.
+  In a Redux application, a reducer is a pure function that takes the current state and an action, and returns a new state. It's responsible for updating the state of the application in response to actions dispatched by the user or other parts of the application.
 
-When you have a complex application with many different features and pieces of state to manage, you might have multiple reducers, each responsible for updating a different part of the application's state.
+  When you have a complex application with many different features and pieces of state to manage, you might have multiple reducers, each responsible for updating a different part of the application's state.
 
-``combineReducers()` allows you to combine these individual reducers into a single reducer function, which can then be used to create the store. This makes it easier to manage the state of your application as it grows and becomes more complex.
+  `combineReducers()` allows you to combine these individual reducers into a single reducer function, which can then be used to create the store. This makes it easier to manage the state of your application as it grows and becomes more complex.
 
-For example, if you have two reducers, one for managing the user's authentication state and another for managing their shopping cart, you can use `combineReducers()` to combine them into a single reducer function that handles both states.
+  For example, if you have two reducers, one for managing the user's authentication state and another for managing their shopping cart, you can use `combineReducers()` to combine them into a single reducer function that handles both states.
 
-Using `combineReducers()` can also make your code more modular and easier to maintain, as each reducer can focus on a specific part of the application's state without needing to worry about the rest of the state.
+  Using `combineReducers()` can also make your code more modular and easier to maintain, as each reducer can focus on a specific part of the application's state without needing to worry about the rest of the state.
 
-Overall, `combineReducers()` is a useful tool for managing complex application state in a more organized and modular way.
+  Overall, `combineReducers()` is a useful tool for managing complex application state in a more organized and modular way.
 
 
 ## Bookmark and Review

@@ -15,8 +15,8 @@
   - A: <http://our-site.com/api/v3/stuff/things>
 
 - Q: We have created a dynamic API with an “interface”. Describe how that interface works to a non-technical friend.
-
-  - A: Think of an interface as a way for humans to interact with a machine. In this case, the machine is the API we created. The interface is like a menu or a dashboard that allows you to input information and get back results. It's designed to make it easy for you to use the API without needing to know any technical details. You can think of it like ordering food at a restaurant where you tell the waiter what you want, and they bring it back to you. Similarly, with an API interface, you input the data you want to use or the function you want to perform, and the API returns the results to you. The interface is user-friendly, intuitive, and designed to make it easy for anyone to use the API, even if they have no technical expertise.
+  
+  - A: Think of an interface as a way for humans to interact with a machine. In this case, the machine is the API we  created. The interface is like a menu or a dashboard that allows you to input information and get back results. It's designed to make it easy for you to use the API without needing to know any technical details. You can think of it like ordering food at a restaurant where you tell the waiter what you want, and they bring it back to you. Similarly, with an API interface, you input the data you want to use or the function you want to perform, and the API returns the results to you. The interface is user-friendly, intuitive, and designed to make it easy for anyone to use the API, even if they have no technical expertise.
 
 
 ## [Review Auth Server Build](https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/auth-server/)
@@ -33,7 +33,7 @@
 - If the credentials are valid, allow the request to pass through to the next middleware function or the server.
 - If the credentials are invalid, return a 401 unauthorized error.
 
-2. Bearer Authentication: This is a more advanced authentication method that uses a token instead of a username and password. To use middleware to implement bearer authentication, follow these steps:
+2.Bearer Authentication: This is a more advanced authentication method that uses a token instead of a username and password. To use middleware to implement bearer authentication, follow these steps:
 
 - Create a middleware function that checks if the authorization header is present in the request.
 - If the header is present, extract the token from the authorization header.
